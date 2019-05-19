@@ -1,0 +1,11 @@
+nav {
+  height: 70px;
+  background-color: #218c74;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+  font-size: 28px;
+  color: white;
+
+  font-family: "Baloo Bhai";
+}
