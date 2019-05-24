@@ -1,11 +1,12 @@
 import React from "react";
+import SequenceInput from "./SequenceInput"
 
 class Home extends React.Component {
 
     render() {
         return (
             <main>
-                Home
+                <SequenceInput />
             </main>
         )
     }
